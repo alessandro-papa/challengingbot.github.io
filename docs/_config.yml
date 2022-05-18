@@ -27,6 +27,27 @@ url: "https://alessandro-papa.github.io/challengingbot.github.io/" # the base ho
 # twitter_username: jekyllrb
 github_username:   alessandro-papa 
 
+# enable folder structure for pages
+include:
+  - _pages
+
+exclude:
+  - deprecated
+  - 2022-05-18-welcome-to-jekyll
+
+defaults:
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      permalink: /:basename/ # make URL of pages in the folder _pages as on the root.
+
+# define which pages are shown in header and in which structure
+header_pages:
+  - pages/welcome.md
+  - pages/problemFormulation.md
+  - pages/modelling.md
+
 # Build settings
 theme: minima
 plugins:
