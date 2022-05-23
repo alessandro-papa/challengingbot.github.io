@@ -20,7 +20,7 @@ original content
 
 test
 
-![Challenging Bot](/assets/img/test.jpg)
+![Challenging Bot](/assets/img/test.JPG)
 
 relative path navigation to root
 
