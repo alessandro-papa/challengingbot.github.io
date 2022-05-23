@@ -16,7 +16,7 @@ permalink: /
 
 original content 
 
-![Challenging Bot](/assets/img/chabo.jpg)
+![Challenging Bot](/docs/assets/img/chabo.jpg)
 
 test
 
