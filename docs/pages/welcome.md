@@ -12,4 +12,16 @@ permalink: /
 - all files attached!
   - CAD files, EAGLE files, list of components
 
+## can i include pictures? 
+
+original content 
+
 ![Challenging Bot](/assets/img/chabo.jpg)
+
+test
+
+![Challenging Bot](/assets/img/test.jpg)
+
+test 2
+
+![Challenging Bot](/test.jpg)
