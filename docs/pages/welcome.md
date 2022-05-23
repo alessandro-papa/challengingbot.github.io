@@ -16,7 +16,7 @@ permalink: /
 
 original content 
 
-![Challenging Bot](/docs/assets/img/chabo.jpg)
+![Challenging Bot](/assets/img/chabo.jpg)
 
 test
 
@@ -24,4 +24,4 @@ test
 
 relative path navigation to root
 
-![Challenging Bot](../test.jpg)
+![Challenging Bot](../test.JPG)
