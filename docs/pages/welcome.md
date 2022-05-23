@@ -18,6 +18,6 @@ permalink: /
   - Wiring schematics and PCBs
   - List of components
 
-### Picture of Chabo
+#### Picture of Chabo
 
 ![Challenging Bot](../assets/img/chabo.JPG)

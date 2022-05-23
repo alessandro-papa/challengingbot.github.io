@@ -42,11 +42,15 @@ defaults:
     values:
       permalink: /:basename/ # make URL of pages in the folder _pages as on the root.
 
-# define which pages are shown in header and in which structure
+ define which pages are shown in header and in which structure
 header_pages:
   - pages/welcome.md
   - pages/problemFormulation.md
   - pages/modelling.md
+  - pages/mechatronic.md
+  - pages/feedbackControl.md
+  - pages/motionPlanning.md
+  - pages/motionLearning.md
 
 # Build settings
 theme: minima
