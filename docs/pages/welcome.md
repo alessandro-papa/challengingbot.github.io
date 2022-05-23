@@ -12,14 +12,4 @@ permalink: /
 - all files attached!
   - CAD files, EAGLE files, list of components
 
-/assets/img/chabo.JPG
-
-![Challenging Bot](/assets/img/chabo.JPG)
-
-../assets/img/chabo.JPG
-
 ![Challenging Bot](../assets/img/chabo.JPG)
-
-../chabo.JPG
-
-![Challenging Bot](../chabo.JPG)
