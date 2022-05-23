@@ -12,12 +12,11 @@ permalink: /
 - It is designed in a low-cost (roughly 1500€), easy-to-use and easy-to-build manner and published for research and engineering teams around the world to use. 
 - For further information, read this paper ---> LINK TO PAPER
 - This website hosts full explanation of the dynamic modelling, the mechatronic design, feedback control, motion planning via RRT as well as motion learning via ILC.
-- The project's GitHub Repository contains all necessary files and documents.
-- A simulation workspace to set up and simulate mentioned methods
-- Furthermore, all files are contained
-- all files attached!
-  - CAD files, EAGLE files, list of components
-
+- The project's [GitHub Repository](https://github.com/alessandro-papa/challanging_bot.git) contains all necessary files and documents.
+  - A simulation workspace to set up and simulate mentioned methods
+  - CAD files of the mechanical parts
+  - Wiring schematics and PCBs
+  - List of components
 
 ### Picture of Chabo
 
