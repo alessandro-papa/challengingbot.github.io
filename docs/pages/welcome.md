@@ -24,4 +24,4 @@ test
 
 test 2
 
-![Challenging Bot](/test.jpg)
+![Challenging Bot](test.jpg)
