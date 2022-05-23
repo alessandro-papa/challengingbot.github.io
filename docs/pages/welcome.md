@@ -22,6 +22,6 @@ test
 
 ![Challenging Bot](/assets/img/test.jpg)
 
-test 2
+relative path navigation to root
 
-![Challenging Bot](test.jpg)
+![Challenging Bot](../test.jpg)
